@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import spotipy
 from pprint import pprint
-from spotipy.oauth2 import SpotifyOAuth
+
 
 date = input("Which year do you want to travel to? Type the date in this format YYYY-MM--DD: ")
 
